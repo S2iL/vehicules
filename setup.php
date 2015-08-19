@@ -26,7 +26,7 @@
  along with Vehicules. If not, see <http://www.gnu.org/licenses/>.
  --------------------------------------------------------------------------
  */
-
+ 
 // Init the hooks of the plugins -Needed
 function plugin_init_vehicules() {
 	global $PLUGIN_HOOKS;
