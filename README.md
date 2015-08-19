@@ -20,5 +20,3 @@ For more detailed information, see the [development wiki](https://github.com/S2i
 
 Le plugin permet la saisie des principales informations de la carte grise d'un véhicule.
 Il est associable a un ticket et permet également de créer une alerte pour le controle technique.
-
-The Genericobject plugin needs directories "inc", and "front" and "locales" to be available in writing for the webservice user.
