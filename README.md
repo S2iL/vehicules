@@ -14,7 +14,7 @@ For more detailed information, see the [development wiki](https://github.com/S2i
 
 ## Development Team
 
-* Philippe PASSIS - Project Manager, Developer ([http://php-consult.com/](http://php-consult.com/))
+* Philippe PASSIS - Project Manager, Developer ([http://www.s2il.fr/](http://www.s2il.fr/))
 
 ### Fonctionnalités
 

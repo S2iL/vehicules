@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Vehicules Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - vehicules plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-17 15:35+0100\n"
+"PO-Revision-Date: 2012-12-17 14:45+0000\n"
+"Last-Translator: The tsmr <tsmr@thetsmr.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: setup.php:113
+msgid "This plugin requires GLPI >= 0.84"
+msgstr "This plugin requires GLPI >= 0.84"
+
+#: inc/vehicule.class.php:39
+msgid "Vehicule"
+msgid_plural "Vehicules"
+msgstr[0] "Vehicule"
+msgstr[1] "Vehicules"
+
+#: inc/vehicule.class.php:72 inc/vehicule.class.php:207
+msgid "Affectation date"
+msgstr "Affectation date"
+
+#: inc/vehicule.class.php:77 inc/vehicule.class.php:220
+#: inc/notificationtargetvehicule.class.php:52
+#: inc/notificationtargetvehicule.class.php:72
+msgid "Date of end of validity"
+msgstr "Date of end of validity"
+
+#: inc/vehicule.class.php:221
+msgid "Empty for infinite"
+msgstr "Empty for infinite"
+
+#: inc/vehicule.class.php:351 inc/notificationtargetvehicule.class.php:39
+#: inc/notificationtargetvehicule.class.php:49
+msgid "Vehicules which expires"
+msgstr "Vehicules which expires"
+
+#: inc/vehicule.class.php:431 inc/notificationtargetvehicule.class.php:38
+#: inc/notificationtargetvehicule.class.php:48
+msgid "Vehicules at the end of the validity"
+msgstr "Vehicules at the end of the validity"
+
+#: inc/vehiculetype.class.php:37
+msgid "Type of vehicule"
+msgid_plural "Types of vehicule"
+msgstr[0] "Type of vehicule"
+msgstr[1] "Types of vehicule"
+
+#: inc/config.class.php:39
+msgid "Plugin Setup"
+msgstr "Plugin Setup"
+
+#: inc/config.class.php:64
+msgid "Time of checking of validity of the vehicules"
+msgstr "Time of checking of validity of the vehicules"
+
+#: inc/config.class.php:74
+msgid "Vehicules expired for more than "
+msgstr "Vehicules expired for more than "
+
+#: inc/config.class.php:77
+msgid "Vehicules expiring in less than "
+msgstr "Vehicules expiring in less than "
+
+#: inc/notificationstate.class.php:91 inc/notificationstate.class.php:121
+msgid "Unused status for expiration mailing"
+msgstr "Unused status for expiration mailing"
+
+#: inc/notificationtargetvehicule.class.php:54
+#: inc/notificationtargetvehicule.class.php:73
+msgid "Allotted to"
+msgstr "Allotted to"
+
+#: inc/notificationtargetvehicule.class.php:80
+msgid "Vehicules expired or vehicules which expires"
+msgstr "Vehicules expired or vehicules which expires"
+
+#: inc/profile.class.php:37 inc/profile.class.php:145
+msgid "Rights management"
+msgstr "Rights management"
